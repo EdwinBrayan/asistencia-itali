@@ -5,6 +5,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 <template>
   <main>
     <TheWelcome />
-    test commit 
+    test commit
+    otro commit
   </main>
 </template>
